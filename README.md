@@ -23,7 +23,7 @@ Do not download the entire project/repository, just download the file called "pa
 - Dark elytra
 - Pop cat sun
 - Updated GUI
-- + or - shown on effect icons
+- positive or negative or neutral shown on effect icons
 - Better particles
 - Pog paintings
 - GOOTH!
