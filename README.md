@@ -6,12 +6,12 @@ If it says it is outdated/for a newer version, it will still work on versions 1.
 
 ## Features:
 - Low fire
-- l o n g swords
+- Short swords
 - Better axes
-- Better tools
+- Better picks
 - Better armor
 - Low shields
-- Tweaked bow and crossbow positions
+- Tweaked crossbow positions
 - FullBright (optifine only)
 - PVP burgers
 - PVP lettuce
@@ -28,6 +28,4 @@ If it says it is outdated/for a newer version, it will still work on versions 1.
 - positive or negative or neutral shown on effect icons
 - Better particles
 - Pog paintings
-- GOOTH! (replaces chickens)
-- SWORD OF GOOSENING!
-- SHIELD OF GOOSENING!
+- Geese (replaces chickens)
